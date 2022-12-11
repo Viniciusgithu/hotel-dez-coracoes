@@ -6,4 +6,5 @@
 🔍 Objetivo: <br>
 Aplicação concebida para participar ativamente do curso de Flexbox da Origamid, desta forma, busquei me apropriar das propriedades Flexbox.
 <br><br>
-💻 Aplicação disponível em:
+💻 Aplicação disponível em: <br>
+<a href="https://viniciusgithu.github.io/hotel-dez-coracoes/">Hotel dez corações </a>
